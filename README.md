@@ -13,3 +13,7 @@ The following user/developer stories detail the major functionality for this pha
 - As a driver, I want to alert the system when I have picked up a package and it is in transit.
 - As a driver, I want to alert the system when a package has been delivered.
 - As a vendor, I want to be notified when my package has been delivered.
+
+
+
+![Screen Shot 2022-06-27 at 8 50 41 PM](https://user-images.githubusercontent.com/91757275/176088142-e8959cfe-b0ad-4b28-b6af-3e0dcd712f66.png)
