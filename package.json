@@ -19,6 +19,8 @@
   "homepage": "https://github.com/BeauHibbert/caps-d47#readme",
   "dependencies": {
     "chance": "^1.1.8",
-    "jest": "^28.1.1"
+    "jest": "^28.1.1",
+    "socket.io": "^4.5.1",
+    "socket.io-client": "^4.5.1"
   }
 }
